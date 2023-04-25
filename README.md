@@ -1,0 +1,2 @@
+# store.dev
+trial takeover
